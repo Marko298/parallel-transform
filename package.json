@@ -1,7 +1,7 @@
 {
   "name": "parallel-transform",
-  "version": "1.2.0",
-  "repository": "git://github.com/mafintosh/parallel-transform",
+  "version": "1.2.1",
+  "repository": "git://github.com/marko298/parallel-transform",
   "license": "MIT",
   "description": "Transform stream that allows you to run your transforms in parallel without changing the order",
   "keywords": [
@@ -15,6 +15,6 @@
   "dependencies": {
     "cyclist": "^1.0.1",
     "inherits": "^2.0.3",
-    "readable-stream": "^2.1.5"
+    "readable-stream": "^2.3.6"
   }
 }
